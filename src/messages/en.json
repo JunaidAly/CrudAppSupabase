@@ -1,0 +1,21 @@
+{
+  "app": {
+    "title": "Supabase CRUD",
+    "subtitle": "Add, edit, and delete items stored in your Supabase table.",
+    "language": "Language",
+    "createTitle": "Create item",
+    "itemPlaceholder": "Item title",
+    "saving": "Saving...",
+    "add": "Add",
+    "itemsTitle": "Items",
+    "refresh": "Refresh",
+    "loadingItems": "Loading items...",
+    "emptyItems": "No items yet. Add one above.",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "footerEditing": "Editing item. Save or cancel to continue.",
+    "footerDefault": "Supabase CRUD demo with Next.js + Tailwind CSS."
+  }
+}
